@@ -38,7 +38,7 @@ export default function Index() {
         paragraphsModal={false}
       />
       <About modal={true} showGallery={false} colorMode={colorMode} />
-      <AboutInstagram colorMode={colorMode} socialPrint={true} />
+      <AboutInstagram colorMode={colorMode} socialPrint={false} />
       <CtaSecondary />
       <Steps colorMode={colorMode} />
       {/* <BlogPosts /> */}
