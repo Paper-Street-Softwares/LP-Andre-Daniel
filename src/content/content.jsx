@@ -53,7 +53,7 @@ export const infos = {
   name: "Dr. André Daniel Loureiro",
   email: "contato", // Email desejado pelo cliente
   emailSecundario: "adcloureiro.adv@gmail.com", // Email desejado pelo cliente
-  domain: "A_Definir", // Sem "www"
+  domain: "www.adcloureiro.com.br", // Sem "www"
   phone: {
     ddd: "21",
     firstPart: "96771", // Apenas os 5 primeiros números (incluindo o 9)
