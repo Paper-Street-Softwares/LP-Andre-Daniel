@@ -125,13 +125,13 @@ export default function Quadrada({ appDownloadButtons, colorMode }) {
               <MotionDivDownToUp className="relative flex justify-center w-full">
                 <div
                   className={`bg-top mt-[20px] desktop1:mt-0 rounded-xl w-full
-                    phone1:h-[300px] phone1:max-w-[300px]
-                    phone2:h-[355px] phone2:max-w-[355px]
-                    phone3:h-[405px] phone3:max-w-[405px]
-                    tablet1:h-[576px] tablet1:min-w-[576px]
-                    tablet2:h-[690px] tablet2:min-w-[690px]
-                    desktop1:h-[400px] desktop1:min-w-[200px]
-                    desktop2:h-[400px] desktop2:min-w-[400px]
+                    phone1:h-[450px] phone1:max-w-[300px]
+                    phone2:h-[500px] phone2:max-w-[355px]
+                    phone3:h-[550px] phone3:max-w-[405px]
+                    tablet1:h-[800px] tablet1:min-w-[576px]
+                    tablet2:h-[950px] tablet2:min-w-[690px]
+                    desktop1:h-[600px] desktop1:min-w-[200px]
+                    desktop2:h-[600px] desktop2:min-w-[400px]
                     bg-cover bg-no-repeat
                     ${
                       colorMode === "light"
